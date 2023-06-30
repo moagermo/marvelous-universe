@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/marvelous-universe/static/css/main.616ae3cb.css",
+    "main.js": "/marvelous-universe/static/js/main.a8b2d9b8.js",
+    "static/js/787.579f6fdb.chunk.js": "/marvelous-universe/static/js/787.579f6fdb.chunk.js",
+    "static/media/phase3.jpg": "/marvelous-universe/static/media/phase3.d47aa75a4773343f7c9c.jpg",
+    "static/media/phase2.jpg": "/marvelous-universe/static/media/phase2.9dd48d095db1e000ef42.jpg",
+    "static/media/phase1.jpg": "/marvelous-universe/static/media/phase1.437be0d98b20244902ab.jpg",
+    "static/media/phase4.jpg": "/marvelous-universe/static/media/phase4.f979967953fc61e4072b.jpg",
+    "index.html": "/marvelous-universe/index.html",
+    "main.616ae3cb.css.map": "/marvelous-universe/static/css/main.616ae3cb.css.map",
+    "main.a8b2d9b8.js.map": "/marvelous-universe/static/js/main.a8b2d9b8.js.map",
+    "787.579f6fdb.chunk.js.map": "/marvelous-universe/static/js/787.579f6fdb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.616ae3cb.css",
+    "static/js/main.a8b2d9b8.js"
+  ]
+}
